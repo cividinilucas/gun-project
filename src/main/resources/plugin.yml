@@ -1,0 +1,4 @@
+name: gun-project
+version: '${project.version}'
+main: com.lucas.gunproject.Gun_project
+api-version: '1.16'
